@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Belanosima&family=Heebo:wght@200;300&family=Poppins:wght@300&family=Rubik&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    overflow-y: hidden;
+}
+h1 {
+    background-color: #000000;
+    color: #ff9900; /* Orange text color */
+    font-family: 'Belanosima', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+p{
+    background-color: #000000;
+    color: white;
+    padding: 20px 60px;
+}
+
+header {
+    background-color: #000000; /* Dark gray header */
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+
+
+section {
+    text-align: center;
+}
+
